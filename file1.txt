@@ -1,4 +1,4 @@
 line1-abcd
-line2-
+line2- efgh
 line3-
 line4-hijk
