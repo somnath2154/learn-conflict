@@ -1,11 +1,7 @@
 line1-abcd
 line2- efgh
-<<<<<<< Updated upstream
-line3-
 line4-hijk
 line 5
-=======
 line3- IJKL
 line-4
-line5
->>>>>>> Stashed changes
+
